@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kellybertozzi
 - 👀 I’m interested in learning to code!
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning React and C
 - 💞️ I’m looking to collaborate on ??
 - 📫 How to reach me: Github?
 
