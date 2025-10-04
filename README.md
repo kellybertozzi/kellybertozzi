@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kellybertozzi
 - 👀 I’m interested in AI and Web Development
 - 🌱 I’m currently learning React, C, Python
-- 💞️ I’m looking to collaborate on ??
 - 📫 How to reach me: Github/LinkedIn
 
 <!---
